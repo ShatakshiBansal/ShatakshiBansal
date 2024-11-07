@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Second year Computer Science and Artificial Intelligence Undergraduate at IGDTUW. I have a keen interest in coding and designing.<br>I love to sing.
+I'm a Third year Computer Science and Artificial Intelligence Undergraduate at IGDTUW. I have a keen interest in coding and designing.<br>I love to sing.
 
 
 ## 🌐 Socials:
